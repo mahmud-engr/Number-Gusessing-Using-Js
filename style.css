@@ -1,0 +1,26 @@
+body {
+      margin: 0;
+      background: aliceblue;
+}
+
+h1 {
+      text-align: center;
+}
+
+h5 {
+      text-align: center;
+}
+
+form {
+      width: 500px;
+      padding: 10px;
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+}
+
+p {
+      text-align: center;
+}
